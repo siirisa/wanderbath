@@ -38,13 +38,13 @@ p {
 }
 
 .first{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url("https://unsplash.com/photos/mU3c7vhtCrg");
 }
 .second{
-  background-image: url("http://dash.ga.co/assets/secondcourse.jpg");
+  background-image: url("https://unsplash.com/photos/VZY6o3Q0EEI");
 }
 .dessert{
-  background-image: url("http://dash.ga.co/assets/dessertcourse.jpg");
+  background-image: url("https://unsplash.com/photos/7FAhq93_Ir8");
 }
 .price {
   float: right;
